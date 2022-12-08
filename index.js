@@ -13,7 +13,7 @@ async function yes(){
       }
     
     
-    const response = await axios.get(process.env.API_URL)
+    const response = await axios.get("https://api.aideas.dev/get")
     const array = response.data
 
 
