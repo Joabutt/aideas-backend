@@ -1,0 +1,19 @@
+{
+  "name": "startup-ideas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "html-format": "^1.0.2",
+    "newline-remove": "^1.0.2",
+    "pug": "^3.0.2",
+    "shelljs": "^0.8.5"
+  }
+}
