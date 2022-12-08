@@ -8,7 +8,7 @@ const shell = require("shelljs")
 
 async function yes(){
     if (!shell.which('git')) {
-        shell.echo('Sorry, this script requires git');
+        shell.echo('Sorry, this script requires git, please install git!');
         shell.exit(1);
       }
     
