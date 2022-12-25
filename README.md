@@ -5,7 +5,7 @@
 <h1 align="center">Startup Ideas powered by <a href="https://openai.com/api/">OpenAi's GPT-3</a></h1>
 
 ## Frontend Code
-The frontend code can be found (here)[https://github.com/joabutt/aideas-frontend]
+The frontend code can be found [here](https://github.com/joabutt/aideas-frontend)
 
 
 ## Installation
